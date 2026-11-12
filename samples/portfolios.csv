@@ -1,0 +1,15 @@
+advisor,client_id,client_name,risk_profile,asset_class,product,amount_brl,maturity
+Ana Ribeiro,C001,Client 001 (fictional),conservative,fixed_income_post,CDB DI Bank A,420000,2026-12-02
+Ana Ribeiro,C001,Client 001 (fictional),conservative,equities,Equity Fund X,260000,
+Ana Ribeiro,C001,Client 001 (fictional),conservative,fixed_income_inflation,IPCA+ Treasury 2035,180000,2035-05-15
+Ana Ribeiro,C002,Client 002 (fictional),moderate,fixed_income_pre,Prefixed LCI Bank B,350000,2026-11-28
+Ana Ribeiro,C002,Client 002 (fictional),moderate,equities,Brazil Equity ETF,190000,
+Ana Ribeiro,C002,Client 002 (fictional),moderate,multimarket,Multimarket Fund Y,140000,
+Ana Ribeiro,C003,Client 003 (fictional),aggressive,equities,Small Caps Fund Z,610000,
+Ana Ribeiro,C003,Client 003 (fictional),aggressive,international,Global Tech ETF,330000,
+Bruno Teixeira,C004,Client 004 (fictional),conservative,fixed_income_post,Selic Treasury 2029,900000,2029-03-01
+Bruno Teixeira,C004,Client 004 (fictional),conservative,fixed_income_pre,Prefixed CDB Bank C,250000,2026-12-10
+Bruno Teixeira,C005,Client 005 (fictional),moderate,fixed_income_inflation,IPCA+ Debenture Co. D,300000,2031-08-20
+Bruno Teixeira,C005,Client 005 (fictional),moderate,real_estate,Real Estate Fund Q,220000,
+Bruno Teixeira,C005,Client 005 (fictional),moderate,equities,Dividend Fund W,160000,
+Bruno Teixeira,C006,Client 006 (fictional),moderate,fixed_income_post,CDB DI Bank A,1200000,2026-11-25
